@@ -4,6 +4,7 @@
 - 🌱 Estudando Python & Flask (BackEnd)
 - 😄 Pronouns: ele/dele
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <div style="display: inline_block">
   <a href="https://github.com/arTiwnl">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arTiwnl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
