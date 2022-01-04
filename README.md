@@ -1,7 +1,7 @@
 ## Olá! Eu Sou Arthur Carvalho
 
 - 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando React
+- 🌱 Estudando Python & Flask (BackEnd)
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block">
