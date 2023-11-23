@@ -1,8 +1,8 @@
 ## Olá! Eu Sou Arthur Carvalho
 
-- 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando TypeScript & React
-- 😄 Pronouns: ele/dele
+- 🖼️ Graphic Designer & Ux/Ui Designer 
+- 🔭 Focoused in Front-end Development
+- 🌱 Learning JavaScript & React
 
 
 <div style="display: inline_block">
