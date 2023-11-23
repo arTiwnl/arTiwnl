@@ -1,7 +1,7 @@
 ## Olá! Eu Sou Arthur Carvalho
 
 - 🖼️ Graphic Designer & Ux/Ui Designer 
-- 🔭 Focoused in Front-end Development
+- 🔭 Focused in Front-end Development
 - 🌱 Learning JavaScript & React
 
 
