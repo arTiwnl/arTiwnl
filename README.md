@@ -1,3 +1,9 @@
+
+<div align="center">
+  
+![LinkedIn Banner (1)]([https://user-images.githubusercontent.com/81394067/148012482-425fcb25-be07-47bf-ba01-3f77021e4d2d.png](https://media.licdn.com/dms/image/D4D16AQGNAuVrZOmsSg/profile-displaybackgroundimage-shrink_350_1400/0/1682272531861?e=1706745600&v=beta&t=KS8oC24o7--oFccBhTdZgdxxu3GtlH-_Ln-DEpkAC_I))
+  
+
 ## Olá! Eu Sou Arthur Carvalho
 
 - 🖼️ Graphic Designer & Ux/Ui Designer 
