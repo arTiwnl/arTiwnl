@@ -4,22 +4,14 @@
 ![LinkedIn Banner (1)](https://media.licdn.com/dms/image/D4D16AQGNAuVrZOmsSg/profile-displaybackgroundimage-shrink_350_1400/0/1682272531861?e=1706745600&v=beta&t=KS8oC24o7--oFccBhTdZgdxxu3GtlH-_Ln-DEpkAC_I)
   
 
-## Olá! Eu Sou Arthur Carvalho
+## Hi! I am Arthur Carvalho
 
- 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Art-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Art-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Art-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
- 
 
-</div>
-
-- 🖼️ Graphic Designer & Ux/Ui Designer 
-- 🔭 Focused in Front-end Development
-- 🌱 Learning JavaScript & React
-
+ 🖼️ Graphic Designer & Ux/Ui Designer <br>
+ 🔭 Focused in Front-end Development<br>
+ 🌱 Learning JavaScript & React<br>
+##
 
 <div style="display: inline_block">
   <a href="https://github.com/arTiwnl">
@@ -34,4 +26,3 @@
   <a href="https://www.linkedin.com/in/arthur-iwnl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-</div>
