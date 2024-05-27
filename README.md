@@ -1,16 +1,12 @@
 
 <div align="center">
-  
-![LinkedIn Banner (1)](https://media.licdn.com/dms/image/D4D16AQGNAuVrZOmsSg/profile-displaybackgroundimage-shrink_350_1400/0/1682272531861?e=1706745600&v=beta&t=KS8oC24o7--oFccBhTdZgdxxu3GtlH-_Ln-DEpkAC_I)
-  
-
 ## Hi! I am Arthur Carvalho
 
 
 
- 🖼️ Graphic Designer & Ux/Ui Designer <br>
- 🔭 Focused in Front-end Development<br>
- 🌱 Learning JavaScript & React<br>
+ 🖼️ Graphic Designer & Ui Designer <br>
+ 🔭 Focused in Development<br>
+ 🌱 Learning C# & .NET<br>
 ##
 
 <div style="display: inline_block">
