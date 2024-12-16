@@ -5,7 +5,7 @@
 
 
 
- 🖼️ Graphic Designer & Ui Designer <br>
+ 🖼️ RPA Manager <br>
  🔭 Focused in Development<br>
  🌱 Learning C# & .NET<br>
 ##
