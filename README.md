@@ -5,10 +5,6 @@
 
 Com foco em automação de processos, utilizo sistemas open source para desenvolver soluções eficientes que otimizam fluxos de trabalho e aumentam a produtividade. Tenho conhecimento sólido em desenvolvimento de software e integração de sistemas, o que me permite projetar e escalar soluções tecnológicas personalizadas e robustas.
 
-Minha experiência em Customer Success proporcionou uma visão clara das necessidades dos clientes e aprimorou minhas habilidades de comunicação e resolução de problemas, integrando essas perspectivas ao desenvolvimento de sistemas.
-
-Estou sempre em busca de desafios técnicos que exijam habilidades em automação, desenvolvimento e integração, aplicando uma abordagem inovadora para criar soluções funcionais e eficientes.
-
 ##
  🖼️ RPA Manager <br>
  🔭 Focused in Development<br>
